@@ -23,7 +23,7 @@
         }
     ],
     "require": {
-        "php": ">=7.*",
+        "php": ">=7.3.0",
         "laravel/framework": "7.*",
         "illuminate/support": "7.*"
     },
