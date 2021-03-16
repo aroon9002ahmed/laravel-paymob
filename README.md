@@ -26,6 +26,9 @@ Require via composer
 ```bash
 $ composer require baklysystems/laravel-paymob
 ```
+```bash
+$ composer require aroon9002ahmed/laravel-paymob
+```
 
 In `config/app.php` file
 
